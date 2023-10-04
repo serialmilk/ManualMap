@@ -1,0 +1,2 @@
+# ManualMap
+Just Cause
